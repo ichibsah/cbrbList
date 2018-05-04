@@ -65,7 +65,7 @@ The allItems parameter can be submitted in the following ways:
 ```html
 <input type="hidden" name="allItems" value="de|Germany" /> 
 <input type="hidden" name="allItems" value="en|England" /> 
-<input type="hidden" name="allItems" value="fr|FFrance" /> 
+<input type="hidden" name="allItems" value="fr|France" /> 
 ```
  
 This list can be built up manually, by a list element construction, database query, etc.
